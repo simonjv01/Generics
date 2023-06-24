@@ -11,6 +11,6 @@ public class Rules {
 
         List<String> languages = new ArrayList<>();
         languages.add("English");
-        
+
     }
 }
